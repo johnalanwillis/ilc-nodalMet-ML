@@ -1,9 +1,9 @@
 # The Clinical Problem - Digital Pathology for Frozen Sections in Invasive Lobular Carcinoma of the Breast
 
 ## Table Of Contents
-* [Breast Cancer and its Subtypes] (#breast-cancer-and-its-subtypes)
-* [Frozen Sections and Tumor Staging] (#Frozen-sections-in-tumor-staging)
-* [Advantages of a digitization for frozen section staging] (advantages-of-digitization-for-frozen-section-staining))
+* [Breast Cancer and its Subtypes](#breast-cancer-and-its-subtypes)
+* [Frozen Sections and Tumor Staging](#Frozen-sections-in-tumor-staging)
+* [Advantages of a digitization for frozen section staging](advantages-of-digitization-for-frozen-section-staining))
 
 ## Breast Cancer and its Subtypes
 Breast cancer is one of the most common cancers in women. A diagnosis of breast cancer can be devastating to both the diagnosed individual and their existing social networks. Every interaction with the medical system following a cancer diagnosis can influence both treatment outcomes and overall patient well being. While Oncologists and surgeons have the most visible roles in providing cancer care, they cannot act without accurate and timely diagnostic information from the pathologist. 
