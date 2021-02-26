@@ -1,5 +1,4 @@
-
-# Digital Pathology Approaches to Nodal Metastasis in Breast Cancer
+# Useful datasets for Digital pathology exploration of breast cancer
 
 ## Table Of Contents
 * [Breast Cancer and its Subtypes] (https://github.com/johnalanwillis/ilc-nodalMet-ML/tree/main/clinical#breast-cancer-and-its-subtypes)

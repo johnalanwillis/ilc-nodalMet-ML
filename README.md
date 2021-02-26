@@ -1,9 +1,9 @@
 # Digital Pathology Approaches to Nodal Metastasis in Breast Cancer
 
 ## Table Of Contents
-* [Project Overview] (#Overview)
-* [Digital Pathology and ILC] (#digital-pathology-and-invasive-lobular-carcinoma)
-* [Project Organization and Navigation] (#project-organization-and-navigation)
+* [Project Overview](#overview)
+* [Digital Pathology and ILC](#digital-pathology-and-invasive-lobular-carcinoma)
+* [Project Organization and Navigation](#project-organization-and-navigation)
 
 ## Overview
 
