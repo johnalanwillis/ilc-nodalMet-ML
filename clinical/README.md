@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 * [Breast Cancer and its Subtypes](#breast-cancer-and-its-subtypes)
-* [Frozen Sections and Tumor Staging](#Frozen-sections-in-tumor-staging)
+* [Digital Pathology and Invasive Lobular Carcinoma](#digital-pathology-and-invasive-lobular-carcinoma)
 * [Advantages of a digitization for frozen section staging](advantages-of-digitization-for-frozen-section-staining))
 
 ## Breast Cancer and its Subtypes
